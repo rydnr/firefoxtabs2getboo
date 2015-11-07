@@ -1,0 +1,16 @@
+{
+  "title": "FirefoxTabs2GetBoo",
+  "name": "FirefoxTabs2getboo",
+  "version": "0.0.1",
+  "description": "A Firefox add-on to export opened tabs to SQL to add them to Getboo database",
+  "main": "index.js",
+  "author": "rydnr",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GPL",
+  "keywords": [
+    "jetpack"
+  ]
+}
